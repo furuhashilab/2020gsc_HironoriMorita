@@ -82,12 +82,11 @@ What have you learned from the study? この研究を通じて得られたもの
 
 # 本文
 
-
+ <img width="300" alt="map2d" src="https://user-images.githubusercontent.com/30142240/98460352-03368a00-21e7-11eb-96b2-34773cb94191.png">
 
 
 卒論本文
-https://furuhashilab.github.io/www4taroaoyama/
-
+https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/master/graduationthesis.md
 
 リポジトリ
 https://github.com/furuhashilab/2020gsc_HironoriMorita
