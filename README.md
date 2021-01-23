@@ -2,6 +2,7 @@
 森田浩徳の2020年ゼミ論製作用レポジトリ
 
 ## ゼミ論概要
+[ドキュメント](https://docs.google.com/document/d/1vzwxvp3MQIKqN1O6vI9nQqXiHlTejMbRFksKjbU2Gmo/edit#)
 https://docs.google.com/document/d/1vzwxvp3MQIKqN1O6vI9nQqXiHlTejMbRFksKjbU2Gmo/edit#
 
 ## 2020/11/09 ゼミ論発表v1
