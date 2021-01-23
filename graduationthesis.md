@@ -82,7 +82,7 @@ What have you learned from the study? この研究を通じて得られたもの
 
 # 本文
 
- <img width="300" alt="map2d" src="https://user-images.githubusercontent.com/30142240/98460352-03368a00-21e7-11eb-96b2-34773cb94191.png">
+ <img width="300" alt="map2d" src="https://user-images.githubusercontent.com/30142240/105577468-35569180-5dbd-11eb-95be-ac908f60048f.png">
 
 
 卒論本文
