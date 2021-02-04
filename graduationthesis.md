@@ -138,12 +138,12 @@ https://docs.google.com/spreadsheets/d/1SqWbWC4D3u2Vbwbv_iG5InuWjjWH3I6bfxhcfYMr
 ## 謝辞:
 　本研究を進めるにあたり古橋教授, 土地家屋調査士藤井十章事務所 代表 藤井十章氏, お笑いタレント 谷+1。氏をはじめ多くの方々より多大な助言を賜りました. 厚く感謝を申し上げます.
 
+*** 
 
+## 進捗管理用プロジェクト
+https://github.com/furuhashilab/sotsuron2020/projects/4
 
-
-# 本文
-
- <img width="300" alt="map2d" src="https://user-images.githubusercontent.com/30142240/105577468-35569180-5dbd-11eb-95be-ac908f60048f.png">
+## ゼミ論文最終発表スライド
 
 
 卒論本文
