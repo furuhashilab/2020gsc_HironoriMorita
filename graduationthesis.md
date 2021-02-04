@@ -90,10 +90,12 @@
 　国土交通省（2019）は道路標識の設置計画において, 「道路標識を歩道等に設置する場合で, 路上施設を設置するための帯状の 部分がなく, かつ十分な歩道等の幅員を確保できない場合, 標示板の設置 高さを 2.5m 以上とするものとする」と設定している. また, 標識令では標示板の基本寸法が定められており, 規制標識においては60cmを基本としている(KiCTEC). 以下の写真から, 路肩左に標識があり, 一番下の標識が駐車禁止, つまり規制標識であることがわかる. したがって, ここでの標識は, 地上2.5m以上, 幅60cmである. 
 
 
+
 <img width="1440" alt="map2d" src="https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/master/photos/thumb-2048.jpg?raw=true">
 CC BY-SA ©️drivephotograph/Mapillary
 
 実際にPotreeのツールを使って調べてみる. まず高さが2.61m, 幅が0.60mとなっていることがわかる. ポイントクラウドデータの質によって, 多少の誤差が生じるかもしれないが, 測定結果が規定通りであることから, Potreeの正確性が確証された. 
+
 
 
 <img width="1440" alt="map2d" src="https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/master/photos/Route%20323.png?raw=true">
@@ -107,6 +109,8 @@ CC BY 4.0 ©️Shizuoka Point Cloud DB
  PotreeConverterは最新（January 31st, 2021）のものでバージョン2.1が公開されている. 実際にバージョン2.0.1でコンバートをかけると, metadataというJSONファイル, hierarchy.bin, octree.binが生成される. PotreeDesktop上でコンバートをかけても同様のファイルが生成される仕組みになっている. しかしこれらのファイルでPotree上でモデリングを行うことは不可能である. 研究結果で述べたように, Potreeの起動は, HTMLファイルから起動させることになっている. しかしPotreeConverterやPotreeDesktopでコンバートをかけるとHTMLファイルが生成されない. Potreeのマニュアルでは, /PotreeConverter.exe C:/pointclouds/data.las -o C:/pointclouds/data_converted と記入してコンバーターを実行させるとされている. しかし語尾に/PotreeConverter.exe C:/pointclouds/data.las -o C:/pointclouds/data_converted -p “filename” を入れることにより, HTMLファイルが生成される. しかしバージョン2.0.1ではHTMLファイルは生成されなかったため, バージョン1.7に落とす必要がある. PotreeDesktopでもバージョン1.7でコンバートをかけることができるのだが, HTMLファイルは生成されないため, Potree Converter 1.7を使用する必要がある. 
 　
  実際に上記の方法でPotree Converter 1.7コンバートが行われると, HTMLファイル, pointcloudファイル, libsファイルが生成される. ここで出来上がったファイルを/Github/potree/examples/に移行させる. そしてPotreeを起動させ, ローカルホストでexampleファイルの中の生成したHTMLファイルを起動させれば, macOSでもPotreeでモデリングすることが可能になる. 
+ 
+ 
  
  <img width="1440" alt="map2d" src="https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/master/photos/20210206%20%E3%82%BC%E3%83%9F%E8%AB%96%E6%9C%80%E7%B5%82%E7%99%BA%E8%A1%A8.png?raw=true">
 CC BY 4.0 ©️Hironori Morita/Furuhashilabs
