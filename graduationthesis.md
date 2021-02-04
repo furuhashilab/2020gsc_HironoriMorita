@@ -4,8 +4,9 @@
 
 
 
-## ポイントクラウドデータを用いた三人称視点ドローンの検討
-## Examination of Third Person View Drone Using Point Cloud Datas
+## ポイントクラウドデータを用いた三人称視点ドローンの提案
+## Proposal of Third Person View Drone Using Point Cloud Data
+
 
 
 
@@ -31,7 +32,8 @@
 
 　近年運送や災害などにドローンが使用されるケースが増えつつあり, 人間とドローンとの関係がより親密になりつつある. それと同時にドローンによる事故が年々増加してしており, より一層ドローンの安全飛行は懸念視されるようになった. 本研究では, 静岡県交通基盤部建設支援局建設技術企画課によりオープンソースとして公開されているポイントクラウドデータを用いて静岡県の街をPotreeを利用して可視化し, それをドローンの操縦のインターフェースに組み込むことにより, 三人称視点ドローンを構成されることを提案する. その結果, 事前準備として, 前もった飛行ルートの構築や状況把握を行うことができるようになるため, 突発的に操縦するよりもより安全な飛行が可能になる. また安全な飛行を築き上げることにより, ドローンの衝突事故の減少に寄与することができる.
 
-　In recent years, drones have been increasingly used for transportation and disasters, and the relationship between humans and drones is becoming more intimate. At the same time, the number of accidents caused by drones has been increasing year by year, and the safety of drone flight has become more and more of a concern. This thesis will propose to use Potree to visualize the city of Shizuoka Prefecture using the point cloud data released as open source by the Construction Technology Planning Division, Construction Support Bureau, Transportation Infrastructure Department, Shizuoka Prefecture, and to incorporate it into the interface of drone operation to construct a third-person drone. As a result, the drone operators will be able to construct a flight route and understand the situation in advance, which will enable safer flights than sudden maneuvers. In addition, building a safe flight can contribute to the reduction of drone collisions.
+　In recent years, drones have been increasingly used for transportation and disasters relief, and the relationship between humans and drones has been becoming more intimate.  At the same time, the number of accidents caused by drones has been increasing year by year, and the safety of drone flight has become more and more of a concern.  This thesis proposes to use Potree to visualize cities in Shizuoka Prefecture using the point cloud data released as open source by the Construction Technology Planning Division, Construction Support Bureau, Transportation Infrastructure Department, and Shizuoka Prefecture.  In addition it is proposed to incorporate point cloud data into the interface of drone operations to construct a third-person view drone.  As a result, the drone operators will be able to construct a flight path and to understand the situation in advance.  The effect will enable safer flights and reduce or eliminate sudden or unexpected maneuvers.  Overall, using a third person view drone builds a safer flight that can contribute to the reduction of drone collisions.
+
 
 
 
