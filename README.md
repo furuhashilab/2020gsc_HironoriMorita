@@ -1,6 +1,8 @@
 # 2020gsc_HironoriMorita
 森田浩徳の2020年ゼミ論製作用レポジトリ
 
+https://furuhashilab.github.io/2020gsc_HironoriMorita/
+
 ## ゼミ論概要
 https://docs.google.com/document/d/1vzwxvp3MQIKqN1O6vI9nQqXiHlTejMbRFksKjbU2Gmo/edit#
 
