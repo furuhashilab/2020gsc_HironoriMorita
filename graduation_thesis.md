@@ -112,7 +112,8 @@ CC BY 4.0 ©️Shizuoka Point Cloud DB
 
 　前提条件として誰もが利用できるツールを想定していたため, macOSユーザーには不条理な結果となってしまっている. しかしPotreeConverterでPotree用にファイルをコンバートかけることができるのであれば, そのファイルの共有することによってmacOSでも使用することが可能になる. 
 
- PotreeConverterは最新（January 31st, 2021）のものでバージョン2.1が公開されている. 実際にバージョン2.0.1でコンバートをかけると, metadataというJSONファイル, hierarchy.bin, octree.binが生成される. PotreeDesktop上でコンバートをかけても同様のファイルが生成される仕組みになっている. しかしこれらのファイルでPotree上でモデリングを行うことは不可能である. 研究結果で述べたように, Potreeの起動は, HTMLファイルから起動させることになっている. しかしPotreeConverterやPotreeDesktopでコンバートをかけるとHTMLファイルが生成されない. Potreeのマニュアルでは, /PotreeConverter.exe C:/pointclouds/data.las -o C:/pointclouds/data_converted と記入してコンバーターを実行させるとされている. しかし語尾に/PotreeConverter.exe C:/pointclouds/data.las -o C:/pointclouds/data_converted -p “filename” を入れることにより, HTMLファイルが生成される. しかしバージョン2.0.1ではHTMLファイルは生成されなかったため, バージョン1.7に落とす必要がある. PotreeDesktopでもバージョン1.7でコンバートをかけることができるのだが, HTMLファイルは生成されないため, Potree Converter 1.7を使用する必要がある. 
+ PotreeConverterは最新（January 31st, 2021）のものでバージョン2.1が公開されている. 実際にバージョン2.0.1でコンバートをかけると, metadataというJSONファイル, hierarchy.bin, octree.binが生成される. PotreeDesktop上でコンバートをかけても同様のファイルが生成される仕組みになっている. しかしこれらのファイルでPotree上でモデリングを行うことは不可能である. 研究結果で述べたように, Potreeの起動は, HTMLファイルから起動させることになっている. しかしPotreeConverterやPotreeDesktopでコンバートをかけるとHTMLファイルが生成されない. Potreeのマニュアルでは,
+ `/PotreeConverter.exe C:/pointclouds/data.las -o C:/pointclouds/data_converted` と記入してコンバーターを実行させるとされている. しかし語尾に`/PotreeConverter.exe C:/pointclouds/data.las -o C:/pointclouds/data_converted -p “filename”` を入れることにより, HTMLファイルが生成される. しかしバージョン2.0.1ではHTMLファイルは生成されなかったため, バージョン1.7に落とす必要がある. PotreeDesktopでもバージョン1.7でコンバートをかけることができるのだが, HTMLファイルは生成されないため, Potree Converter 1.7を使用する必要がある. 
 
  実際に上記の方法でPotree Converter 1.7コンバートが行われると, HTMLファイル, pointcloudファイル, libsファイルが生成される. ここで出来上がったファイルを/Github/potree/examples/に移行させる. そしてPotreeを起動させ, ローカルホストでexampleファイルの中の生成したHTMLファイルを起動させれば, macOSでもPotreeでモデリングすることが可能になる. 
  
