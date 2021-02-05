@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# 2020gsc_HironoriMorita
+森田浩徳の2020年ゼミ論製作用レポジトリ
 
-You can use the [editor on GitHub](https://github.com/furuhashilab/2020gsc_HironoriMorita/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+https://furuhashilab.github.io/2020gsc_HironoriMorita/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ゼミ論概要
+https://docs.google.com/document/d/1vzwxvp3MQIKqN1O6vI9nQqXiHlTejMbRFksKjbU2Gmo/edit#
 
-### Markdown
+## 2020/11/09 ゼミ論発表v1
+##### プレゼン資料
+https://speakerdeck.com/22hero1072/pointokuraudodetawoyong-itasan-ren-cheng-shi-dian-doronfalsejian-tao
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### medium
+[ポイントクラウドデータを用いた三人称視点ドローンの検討](https://medium.com/furuhashilab/%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E4%B8%89%E4%BA%BA%E7%A7%B0%E8%A6%96%E7%82%B9%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AE%E6%A4%9C%E8%A8%8E-1b9a0ceff67a)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+##### Potree
+https://github.com/potree
 
-- Bulleted
-- List
+## 2020/12/22 ゼミ論中間発表
+#### medium
+[【コンバーターファイターⅡ】MacOSでPotreeConverterの使用はできるのか？](https://medium.com/furuhashilab/%E3%82%B3%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E2%85%B1-macos%E3%81%A7potreeconverter%E3%81%AE%E4%BD%BF%E7%94%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%AE%E3%81%8B-16e2891a83ed)
 
-1. Numbered
-2. List
+## 2021/02/06 ゼミ論発表v2
+##### 本文
+https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/master/graduationthesis.md
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/furuhashilab/2020gsc_HironoriMorita/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##### 発表資料medium
