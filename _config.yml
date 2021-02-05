@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+encding: utf-8
+plugins: 
+  - jekyll-github-metadata
+github : [metadata]
+repository: furuhashilab/2020gsc_HironoriMorita
