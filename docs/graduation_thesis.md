@@ -26,7 +26,7 @@
 指導教員　古橋 大地 教授
 
 
-© Furuhashi Laboratory/Taro Aoyama, CC BY 4.0
+© Furuhashi Laboratory/Hironori Morita, CC BY 4.0
 
 # 概要
 
