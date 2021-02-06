@@ -5,7 +5,7 @@
 ## [松城前](potree-1.8/examples/Shizuoka/shizuoka.html)
 ## [浜松城](potree-1.8/examples/Hamamatsujo_castle/Hamamatsujo_castle.html)
 
-## [GitHub Pages](https://furuhashilab.github.io/2020gsc_HironoriMorita/)
+## [Home](https://furuhashilab.github.io/2020gsc_HironoriMorita/)
 
 ## [ゼミ論概要](https://docs.google.com/document/d/1vzwxvp3MQIKqN1O6vI9nQqXiHlTejMbRFksKjbU2Gmo/edit#)
 
