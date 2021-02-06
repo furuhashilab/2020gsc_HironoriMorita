@@ -5,4 +5,8 @@
 ### [323号線](potree-1.8/examples/323/323.html)
 
 
+
 ### [生データzip](https://drive.google.com/drive/folders/1hphsWQZ066GJtu6rwKtx4gFlFLjMNLQ2?usp=sharing)
+
+
+CC BY 4.0 ©️Shizuoka Point Cloud DB
