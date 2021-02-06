@@ -150,3 +150,6 @@ https://docs.google.com/spreadsheets/d/1SqWbWC4D3u2Vbwbv_iG5InuWjjWH3I6bfxhcfYMr
 ## [進捗管理用プロジェクト](https://github.com/furuhashilab/sotsuron2020/projects/4)
 
 
+<div align="center">
+<img width="50" alt="map2d" src="https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/master/photos/%E3%83%9B%E3%83%BC%E3%83%A0%20%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E7%B4%A0%E6%9D%90%208.png?raw=true" alt="属性" title="">
+</div>
