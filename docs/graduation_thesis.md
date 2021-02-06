@@ -46,7 +46,7 @@
 
 　ドローンの墜落事故には様々な要因があげられ, 強風, 人為的ミス, 接触, 通信途絶などが主な要因となっている. その中でも接触による事故が一番多く, 国土交通省(2019,2010)無人航空機に係る事故トラブル等の一覧によると, 平成31年度（図1-a）には83件中42件, 令和2年度（図1-b）（令和2年11月3日現在）には47件中30件にも及んでいる. 約1年9ヶ月の間に最低130件ものドローンの事故や問題が発生しており, その中でも接触による事故は全体の55%にも及ぶ. 接触の対象として, 一番多いのは電線であり, 家屋, 樹木, 電柱, 電話線と続く. この結果から, ドローンの事故は高い建造物や空中で垂れ下がっているものに接触する傾向にあることがわかる. 
 
-<img width="300" alt="map2d" src="https://user-images.githubusercontent.com/30142240/98460354-05004d80-21e7-11eb-8393-9e2c04b97388.png">  <img width="300" alt="map2d" src="https://user-images.githubusercontent.com/30142240/98460355-0598e400-21e7-11eb-95f0-4e21f1234e34.png">  <img width="300" alt="map2d" src="https://user-images.githubusercontent.com/30142240/98460352-03368a00-21e7-11eb-96b2-34773cb94191.png">
+<img width="280" alt="map2d" src="https://user-images.githubusercontent.com/30142240/98460354-05004d80-21e7-11eb-8393-9e2c04b97388.png">  <img width="280" alt="map2d" src="https://user-images.githubusercontent.com/30142240/98460355-0598e400-21e7-11eb-95f0-4e21f1234e34.png">  <img width="280" alt="map2d" src="https://user-images.githubusercontent.com/30142240/98460352-03368a00-21e7-11eb-96b2-34773cb94191.png">
 
 図1-a.平成31年度無人航空機に係る事故トラブル等の一覧を元に作成, 図1-b.令和2年度無人航空機に係る事故トラブル等の一覧を元に作成, 図1-c.接触対象(無人航空機に係る事故トラブル等の一覧(2019, 2020)を元に作成)
 
