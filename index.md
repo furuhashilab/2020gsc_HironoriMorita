@@ -1,5 +1,4 @@
-# 2020gsc_HironoriMorita
-森田浩徳の2020年ゼミ論製作用レポジトリ
+
 
 ## [Home](https://furuhashilab.github.io/2020gsc_HironoriMorita/)
 ## [データ](/data/readme.md)
