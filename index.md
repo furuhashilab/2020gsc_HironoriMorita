@@ -22,5 +22,5 @@
 #### [発表資料](https://speakerdeck.com/22hero1072/pointokuraudodetawoyong-itasan-ren-cheng-shi-dian-doronfalseti-an)
 
 <div align="center">
-<img width="50" alt="map2d" src="https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/master/photos/%E3%83%9B%E3%83%BC%E3%83%A0%20%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E7%B4%A0%E6%9D%90%208.png?raw=true" alt="属性" title="">
+<a href="https://furuhashilab.github.io/2020gsc_HironoriMorita/"> <img width="50" alt="map2d" src="https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/master/photos/%E3%83%9B%E3%83%BC%E3%83%A0%20%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E7%B4%A0%E6%9D%90%208.png?raw=true" alt="属性" title="">  </a>
 </div>
