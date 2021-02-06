@@ -144,16 +144,9 @@ https://docs.google.com/spreadsheets/d/1SqWbWC4D3u2Vbwbv_iG5InuWjjWH3I6bfxhcfYMr
 　本研究を進めるにあたり古橋教授, 土地家屋調査士藤井十章事務所 代表 藤井十章氏, お笑いタレント 谷+1。氏をはじめ多くの方々より多大な助言を賜りました. 厚く感謝を申し上げます.
 
 *** 
+## [卒論本文](https://furuhashilab.github.io/2020gsc_HironoriMorita/docs/graduation_thesis.html)
+## [ゼミ論文最終発表スライド](https://speakerdeck.com/22hero1072/pointokuraudodetawoyong-itasan-ren-cheng-shi-dian-doronfalseti-an)
+## [リポジトリ](https://github.com/furuhashilab/2020gsc_HironoriMorita)
+## [進捗管理用プロジェクト](https://github.com/furuhashilab/sotsuron2020/projects/4)
 
-## 進捗管理用プロジェクト
-https://github.com/furuhashilab/sotsuron2020/projects/4
-
-## ゼミ論文最終発表スライド
-
-
-卒論本文
-https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/master/graduationthesis.md
-
-リポジトリ
-https://github.com/furuhashilab/2020gsc_HironoriMorita
 
