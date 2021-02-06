@@ -2,7 +2,8 @@
 森田浩徳の2020年ゼミ論製作用レポジトリ
 
 
-## [データ](potree-1.8/examples/Shizuoka/shizuoka.html)
+## [松城前](potree-1.8/examples/Shizuoka/shizuoka.html)
+## [浜松城](potree-1.8/examples/Hamamatsujo_castle/Hamamatsujo_castle.html)
 
 ## [GitHub Pages](https://furuhashilab.github.io/2020gsc_HironoriMorita/)
 
