@@ -2,7 +2,7 @@
 森田浩徳の2020年ゼミ論製作用レポジトリ
 
 
-## [データ](
+## [データ](potree-1.8/examples/Shizuoka/shizuoka.html)
 
 ## [GitHub Pages](https://furuhashilab.github.io/2020gsc_HironoriMorita/)
 
