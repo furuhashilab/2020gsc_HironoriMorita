@@ -3,8 +3,9 @@
 
 
 ## [Home](https://furuhashilab.github.io/2020gsc_HironoriMorita/)
-## [データ](/data/readme.md)
 ## [本文](docs/graduation_thesis.md)
+## [データ](/data/readme.md)
+
 
 ## 2020/11/09 ゼミ論発表v1
 #### [発表資料](https://speakerdeck.com/22hero1072/pointokuraudodetawoyong-itasan-ren-cheng-shi-dian-doronfalsejian-tao)
