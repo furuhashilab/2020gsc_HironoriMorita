@@ -4,8 +4,10 @@
 
 
 
-## ポイントクラウドデータを用いた三人称視点ドローンの提案
-## Proposal of Third Person View Drone Using Point Cloud Data
+## 無人航空機の安全管理を目的とした点群データの可視化計測手法の検討
+## ~ PotreeとSketchfabを例として ~
+## Consideration on Visualization and Measurement Method of Point Cloud Data for Safety Management of Unmanned Aircraft
+## ~ Using Potree and Sketchfab as examples ~
 
 
 
