@@ -155,7 +155,7 @@ https://github.com/furuhashilab/sotsuron2020/projects/4
 
 
 卒論本文
-https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/master/graduationthesis.md
+https://furuhashilab.github.io/2020gsc_HironoriMorita/docs/graduation_thesis.html
 
 リポジトリ
 https://github.com/furuhashilab/2020gsc_HironoriMorita
