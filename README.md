@@ -3,7 +3,7 @@
 
 
 ## [Home](https://furuhashilab.github.io/2020gsc_HironoriMorita/)
-## [本文](docs/graduation_thesis.md)
+## [本文](https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/gh-pages/docs/graduation_thesis.md)
 ## [データ](https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/gh-pages/data/readme.md)
 
 
@@ -20,6 +20,6 @@
 ## 2021/02/06 ゼミ論発表v2
 #### [ゼミ論概要](https://docs.google.com/document/d/1vzwxvp3MQIKqN1O6vI9nQqXiHlTejMbRFksKjbU2Gmo/edit#)
 
-#### [本文](docs/graduation_thesis.md)
+#### [本文](https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/gh-pages/docs/graduation_thesis.md)
 
 #### [発表資料](https://speakerdeck.com/22hero1072/pointokuraudodetawoyong-itasan-ren-cheng-shi-dian-doronfalseti-an)
