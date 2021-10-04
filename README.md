@@ -4,7 +4,7 @@
 
 ## [Home](https://furuhashilab.github.io/2020gsc_HironoriMorita/)
 ## [本文](docs/graduation_thesis.md)
-## [データ](/data/readme.md)
+## [データ](https://github.com/furuhashilab/2020gsc_HironoriMorita/blob/gh-pages/data/readme.md)
 
 
 ## 2020/11/09 ゼミ論発表v1
